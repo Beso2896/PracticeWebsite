@@ -1,0 +1,73 @@
+table {
+  width: 100%;
+}
+table tbody {
+  background-color: #FFF;
+}
+table tbody tr .aaLeftSide {
+  width: 45%;
+  text-align: end;
+  color: #666;
+  font-weight: bold;
+  font-size: 12px;
+  border-left: solid 1px #ccc;
+}
+table tbody tr .aaRightSide {
+  padding: 0.5em;
+  border-right: solid 1px #ccc;
+  font-size: 16px;
+  font: normal normal 12px/12px "Trebuchet MS", sans-serif;
+  padding: 3px 4px;
+}
+table tbody tr .aaRightSide .inputStyle {
+  width: 100%;
+  padding: 3px 4px;
+  border: 1px solid #666;
+  box-shadow: inset 0 2px 4px #c5c5c5;
+}
+table tbody tr #SpaceDown {
+  padding-bottom: 50px;
+}
+table tbody tr .password-rules {
+  margin: 0.5rem 0.5rem 1rem;
+  font-size: 10px;
+  color: red;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  background-color: #E6E6E6;
+  padding-top: 0.8rem;
+  align-items: center;
+  margin-bottom: 1rem;
+}
+
+.redActnBtn {
+  font-size: 11px;
+  padding: 3px;
+  font-family: "Trebuchet MS", "Panic Sans", Arial, sans-serif;
+  color: #fff !important;
+  cursor: pointer;
+  border-radius: 10px;
+  text-align: center;
+  text-decoration: none;
+  border: 1px solid #af2b2b;
+  width: 88px;
+  text-transform: capitalize;
+  background-color: #cd2d2d;
+  box-shadow: inset 0px -7px 3px 1px #a62626;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+
+.drkHead {
+  font-size: 14.4px;
+  background-color: #5F5F5F;
+  padding: 0.3472em 0.69441em;
+  color: #FFF;
+  font-weight: bold;
+  border-radius: 5px 5px 0 0;
+  box-shadow: inset 0px 8px 8px 3px #3f3f3f;
+  margin-bottom: 0;
+}

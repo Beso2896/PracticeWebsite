@@ -1,0 +1,15 @@
+@font-face {
+  font-family: "Proxima Nova Rg";
+  src: url('./../fonts/proximanova_regular.ttf') format('truetype');
+  src: url('./../fonts/proximanova_extrabold.otf') format('opentype');
+}
+
+@font-face {
+  font-family: "Proxima Nova Bold";
+  src: url('./../fonts/proximanova_extrabold.otf') format('opentype');
+}
+
+@font-face {
+  font-family: "Bitsumishi";
+  src: url('./../fonts/BITSUMIS.TTF') format('truetype')
+}
